@@ -2,13 +2,13 @@
 
 Modern DLC unlocking/activating tool for
 **Payday 2**
-© 2024–2025 — All Rights Reserved
+© 2024–2026 — All Rights Reserved
 
 ---
 
 ## **Overview**
 
-**Payday 2 DLC Unlocker** is a lightweight Windows application designed to 
+**Payday 2 DLC Unlocker** is a lightweight designed to unlock all content in Payday 2: Weapons, Masks, Gloves and all other DLCs
 
 ---
 
@@ -17,82 +17,51 @@ Modern DLC unlocking/activating tool for
 - [💾 Releases Page]() = `*Latest Release as of now*`
 
 ---
+## ⚠️Warning⚠️
 
-## **Features**
+⚠️If you want to unlock all DLCs, only drag the unlock_all_dlcs folder into the mods folder  
+⚠️If you only want to unlock Characters, only drag the unlock_only_characters folder into the mods folder  
+⚠️If you only want to unlock Heists, only drag the unlock_only_heists folder into the mods folder
 
-- **Automatic ETS2 / ATS save folder detection**
-- **One-click profile and save loading**
-- **Money, experience, and skill point editing**
-- **Truck, garage, and trailer ownership control**
-- **Driver management and progression editing**
-- **Company and economy data inspection**
-- **Profile level and unlock flag editing**
-- **Real-time validation and error logging**
-- **Automatic backup before every edit**
-- **Minimal dark interface** designed for long editing sessions
+**ALWAYS** do separate builds!!!  
 
----
+Attention, **SOME** weapons and weapon modifications are allowed, but most of them give you CHEATER TAG. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC - otherwise, you will be automatically kicked from the game.
 
-## **System Requirements**
+If you dont want to get cheater tag, get the safe version of dlc unlocker here
 
-- Windows 10 or Windows 11  
-- Installed copy of *Euro Truck Simulator 2* and/or *American Truck Simulator*  
-- At least 2 GB free disk space  
-- .NET Framework 4.8 or newer
+## Installation
 
----
+To find the game folder you can do the following:
 
-## **How to Use**
+Then, just extract the zip into the Payday 2 mods folder!
 
-1. Download the latest **ETS2-ATS-Save-Editor.exe** from the Releases page  
-2. Run the application (no installation required)  
-3. Select **Euro Truck Simulator 2** or **American Truck Simulator**  
-4. Choose your profile and save file  
-5. Edit desired values  
-6. Press **Save Changes**
+If you don't have a mods folder yet, launch Payday 2 once after you've installed SuperBLT. Doing this will create the mods folder and install the required SuperBLT Hook and dependencies.
 
----
-
-## ⚠️ **Important Notice (All Users)**
-
-### **Save Integrity Warning**
-
-Improper editing can cause:
-
-- Broken profiles
-- Missing trucks or garages
-- Economy desynchronization
-- Game crashes on load
-- Permanent save corruption
-
-Always rely on the **automatic backup system** before applying changes.
-
----
-
-## **Automatic Backups**
-
-Before any modification, the editor creates:
-
-- A full copy of the original save file
-- A timestamped restore point for easy rollback
-
-Backups are stored in:
-
-Documents/American Truck Simulator OR Euro Truck Simulator 2/save_backups/
+This popup will appear. Press 'Yes' and wait until it's done.
 
 
-Restoring a backup is as simple as replacing the edited save with a backup copy.
+Afterwards, you should see the mods folder and you're ready to install the DLC Unlocker.
 
----
 
-## **Disclaimer**
+Start the game and enjoy!
 
-This tool is **not affiliated with or endorsed by SCS Software**.  
-Use at your own risk. Always keep manual backups of important profiles.
+## What gives you CHEATER TAG
+ - Masks from DLC
+ - Weapons from DLC
+ - Weapon Modifications from DLC
+ - Hosting a Contract Heist from DLC
+ - Weapon Colors from DLC
+ - Patterns and Materials Mask from DLC
+ - Melee Items from DLC
 
----
+## What doesn't give you CHEATER TAG
+ - Outfits from DLC
+ - Gloves from DLC
+ - Characters from DLC
+ - Perk Decks from DLC
+ - Equipment from DLC such as Molotov, kingpin injector etc.
+ - **SOME** Weapon Modifications from DLC
 
-## **License**
 
-This software is provided for personal use only.  
-Redistribution or commercial use is prohibited without explicit permission.
+## Contributing
+If you want to contribute and make this repository better, your help is very welcome. Feel free to make pull requests.
